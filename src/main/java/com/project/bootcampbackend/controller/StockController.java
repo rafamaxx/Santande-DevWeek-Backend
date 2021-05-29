@@ -5,16 +5,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import com.project.bootcampbackend.model.dto.StockDTO;
-import jdk.management.resource.internal.ResourceNatives;
 import org.springframework.http.MediaType;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-
-import javax.print.attribute.standard.Media;
 import javax.validation.Valid;
-import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.List;
 
 @CrossOrigin
