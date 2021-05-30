@@ -1,8 +1,6 @@
 package com.project.bootcampbackend.repository;
 
 import com.project.bootcampbackend.model.Stock;
-import com.project.bootcampbackend.model.dto.StockDTO;
-import org.apache.tomcat.jni.Local;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
