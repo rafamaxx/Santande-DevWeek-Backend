@@ -16,4 +16,4 @@ spring:
       ddl-auto: none
 
 application:
-  description: Projeto Fullstrack Santander - DIO
+  description: Projeto FullStack Santander - DIO
